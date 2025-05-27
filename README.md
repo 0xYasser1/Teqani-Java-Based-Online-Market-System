@@ -2,6 +2,8 @@
 Teqani is a robust and scalable Java-based online market system designed to streamline the digital shopping experience for both customers and administrators. Developed using Java Swing for the graphical user interface and MySQL as the backend database, Teqani delivers an intuitive, secure, and feature-rich platform for managing products, orders, users, and inventory in real time.
 
 The system features a modular architecture, ensuring high maintainability and extensibility. It supports core e-commerce functionalities such as product browsing, customer registration and login, cart management, order placement, and order history tracking. On the administrative side, Teqani includes a secure admin panel for managing product catalogs, viewing transactions, and performing CRUD operations on inventory data.
+![image](https://github.com/user-attachments/assets/c095e60e-6c45-419d-8fed-c70b62d07b7a)
+
 
 Key Features:
 
