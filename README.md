@@ -53,6 +53,11 @@ To demonstrate practical application of Java in desktop development and database
 
 To promote good coding practices such as separation of concerns and data encapsulation.
 
+**Contributors:**
+- @0xYasser1  
+- @Abdullahcys10
+
+
 Conclusion:
 
 Teqani stands as a testament to the power and flexibility of Java in developing full-fledged desktop applications. With its clean design and practical features, it offers a solid foundation for future expansion into web or mobile platforms, supporting real business needs in a digital marketplace.
