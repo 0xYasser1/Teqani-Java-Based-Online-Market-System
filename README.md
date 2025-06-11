@@ -54,8 +54,8 @@ To demonstrate practical application of Java in desktop development and database
 To promote good coding practices such as separation of concerns and data encapsulation.
 
 **Contributors:**
-@0xYasser1  
-@Abdullahcys10
+- 0xYasser1  
+- Abdullahcys10
 
 
 Conclusion:
